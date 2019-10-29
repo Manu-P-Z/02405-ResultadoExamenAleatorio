@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.japo.java;
+package org.japo.java.main;
 
 /**
  *
@@ -21,7 +21,7 @@ package org.japo.java;
  */
 import java.util.Random;
 
-public class main {
+public class Main {
 
     /**
      * @param args the command line arguments
